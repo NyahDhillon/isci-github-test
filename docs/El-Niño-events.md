@@ -2,7 +2,7 @@
 
 
 ## Part 1:
-**_Top 5 List_**
+**Top 5 List**
 
 1. Most observed global warming is natural due to El Niño events.
 * Why I rethought it: I know that the ENSO cycle (which include El Niño events) can cause global changes in temperature and precipitation.
@@ -16,11 +16,15 @@
 * Why I rethought it: They used data from NOAA, which is a scientific government agency, to illustrate their point.
 
 ## Part 2:
-**_Claims Analysis_**
+**Claims Analysis**
 
 According to [EverythingClimate.org](https://everythingclimate.org/el-nino/), most observed global warming is natural. They state that El Niño events are responsible for roughly half of all global warming in the 21st century (Everything Climate, 2021). Looking at global warming data from the period 2000 - 2018, Dr. Roy Spencer of the University of Alabama argued that the El Niño spike in 2015 - 2016 skewed the data (Everything Climate, 2021). His argument was that by removing that event from the data, UAH tropospheric temperature trend is negligible and the surface temperatures is nearly cut in half in comparison to the original model that included the El Niño spike (Everything Climate, 2021). Going even further, he states that if we negate the natural warming then the observed rate of warming is only half that projected by current climate models (Everything Climate, 2021). This point of view was said to be in response to “some climate scientists, politicians, activists, and various green energy pundits who go even further, behaving as if warming is 100% human-caused” (Everything Climate, 2021).
 
-![El Niño Events](/images/logo.png)
+![El Niño Events](https://upload.wikimedia.org/wikipedia/commons/a/a8/NOAA-CPC-NWS-NOAA_SST_Anoms_2015.jpg)
+
+_Image: The SST Anomalies Average for the 2014–2016 El Niño event_
+
+
 
 This article was particularly interesting to me because at first glance some of the information seemed correct. I knew that the ENSO cycle (which includes El Niño events) can cause global changes in temperature and precipitation, so I thought the article could definitely have some merit. However, once I read further into the article I knew it had to be incorrect because it essentially tries to belittle the contributions that humans make to climate change as well as dismisses the effects of climate change as nothing but a natural progression.
  
@@ -33,3 +37,5 @@ Works Cited:
 Everything Climate. (2021, January 24). El Niño. Everything Climate. https://everythingclimate.org/el-nino/
 
 NOAA. (2020, November 9). How will climate change change El Niño and La Niña? - Welcome to NOAA Research. NOAA Research News. https://research.noaa.gov/article/ArtMID/587/ArticleID/2685/New-research-volume-explores-future-of-ENSO-under-influence-of-climate-change
+
+``` Thank you for reading!```
